@@ -1,4 +1,4 @@
 # leetcode
 
 
-backup leetcode submision
+backup leetcode submissions
